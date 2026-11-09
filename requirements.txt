@@ -1,0 +1,2 @@
+# Optional: only for generating the integral plot (task_2.py --plot ...).
+matplotlib>=3.7
